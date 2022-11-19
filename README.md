@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Android**
 
-- 🌱 I’m currently learning **Kotlin Multiplatform,MicroFrontends**
+- 🌱 I’m currently learning **Jetpack Compose, Kotlin Multiplatform**
 
 - 👯 I’m looking to collaborate on **Android,IOS**
 
