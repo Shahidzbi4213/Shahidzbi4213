@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **shahidzbi@outlook.com**
 
+
+<a href="https://stardev.io/developers/Shahidzbi4213"><img alt="Check out Shahidzbi4213&apos;s profile on stardev.io" src="https://stardev.io/developers/Shahidzbi4213/badge/languages/locality.svg" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/shahid__iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shahid Iqbal" height="30" width="40" /></a>
