@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shahidzbi@outlook.com**
 
-
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidzbi4213&show_icons=true&locale=en" alt="shahid iqbal" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
