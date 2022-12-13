@@ -27,8 +27,6 @@
 <h3 align="left">Github Stats:</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahidzbi4213&show_icons=true&locale=en" alt="shahid iqbal" /></p>
 
-<h3 align="left">Used Languages:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahidzbi4213&show_icons=true&locale=en&layout=compact" alt="Shahid Iqbal" /></p>
 
 <h3 align="left">Local Ranking:</h3>
 <a href="https://stardev.io/developers/Shahidzbi4213"><img alt="Check out Shahidzbi4213&apos;s profile on stardev.io" src="https://stardev.io/developers/Shahidzbi4213/badge/languages/locality.svg" /></a>
