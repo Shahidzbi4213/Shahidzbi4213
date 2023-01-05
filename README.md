@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Statts</h3>
-<p align="center">&nbsp;<img align= src="https://github-readme-stats.vercel.app/api?username=shahidzbi4213&show_icons=true4theme=synthwave" alt="shahid iqbal" /></p>
+<p align="center">&nbsp;<img align= src="https://github-readme-stats.vercel.app/api?username=shahidzbi4213&show_icons=true&theme=synthwave" alt="shahid iqbal" /></p>
 
 <h3 align="left">Ranking</h3>
 
