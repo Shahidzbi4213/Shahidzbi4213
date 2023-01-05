@@ -23,9 +23,8 @@
 
 
 <h3 align="left">Statts</h3>
-<p align="center">&nbsp;<img align= src="https://github-readme-stats.vercel.app/api?username=shahidzbi4213&show_icons=true&theme=synthwave" alt="shahid iqbal" /></p>
+<img align= src="https://github-readme-stats.vercel.app/api?username=shahidzbi4213&show_icons=true&theme=dracula" alt="shahid iqbal" />
 
 <h3 align="left">Ranking</h3>
-
-<a href="https://stardev.io/developers/Shahidzbi4213"><img alt="Check out Shahidzbi4213&apos;s profile on stardev.io" src="https://stardev.io/developers/Shahidzbi4213/badge/languages/locality.svg" /></a>
+<img alt="Check out Shahidzbi4213&apos;s profile on stardev.io" src="https://stardev.io/developers/Shahidzbi4213/badge/languages/locality.svg" />
 
