@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Github Stats:</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahidzbi4213&show_icons=true&locale=en" alt="shahid iqbal" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidzbi4213&show_icons=true" alt="shahid iqbal" /></p>
 
 
 <h3 align="left">Local Ranking:</h3>
