@@ -23,18 +23,12 @@
   <a href="https://firebase.google.com"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-
-   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-
-    <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-
- <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDb" width="40" height="40"/></a>
-
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="Android" width="40" height="40"/></a>
-
-        <a href="https://shahidzbi.blogspot.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blogger/blogger-tile.svg" alt="Blog" width="40" height="40"/></a>
-
-    </p>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDb" width="40" height="40"/></a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="Android" width="40" height="40"/></a>
+<a href="https://shahidzbi.blogspot.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blogger/blogger-tile.svg" alt="Blog" width="40" height="40"/></a>
+</p>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidzbi4213&hide=javascript,html,css,scss&layout=compact"/>
 <img src = "https://github-readme-stats.vercel.app/api?username=Shahidzbi4213&show_icons=true&theme=radical"/>
