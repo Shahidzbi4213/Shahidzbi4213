@@ -18,11 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://developer.android.com/studio?gclid=Cj0KCQiA4aacBhCUARIsAI55maGhJlrF3nY4KnxvrDG7nH8KKb8AhxzaxvHOFaSNF1PJ1OslUYLySoaAuIDEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" alt="android studio" width="45" height="45"/> </a>
-  
-  <a href="https://firebase.google.com"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.android.com/studio?gclid=Cj0KCQiA4aacBhCUARIsAI55maGhJlrF3nY4KnxvrDG7nH8KKb8AhxzaxvHOFaSNF1PJ1OslUYLySoaAuIDEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" alt="android studio" width="45" height="45"/> </a> <a href="https://firebase.google.com"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDb" width="40" height="40"/></a>
