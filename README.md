@@ -22,6 +22,7 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDb" width="40" height="40"/></a>
+<img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="MongoDb" width="40" height="40"/>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="Android" width="40" height="40"/></a>
 <a href="https://shahidzbi.blogspot.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blogger/blogger-tile.svg" alt="Blog" width="40" height="40"/></a>
 </p>
