@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **<a href="https://play.google.com/store/apps/details?id=com.app.resort.time.warp.scan.face.scanner.offline">Timewarp</a>** 
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **KMP/CMP**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
