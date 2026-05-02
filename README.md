@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahid Iqbal</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=shahidzbi4213&label=Profile%20views&color=0e75b6&style=flat" alt="Shahid Iqbal" /> </p>
 
-- 🔭 I’m currently working on **<a href="https://github.com/Shahidzbi4213/Screeny-Compose">Screeny</a>** 
+- 🔭 I’m currently working on **<a href="https://mushafmakkah.com/">Mushaf Makkah</a>** 
 
 - 🌱 I’m currently learning **KMP/CMP**
 
