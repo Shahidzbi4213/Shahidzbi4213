@@ -101,16 +101,22 @@ val shahid = MobileEngineer(
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahidzbi4213&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=4285F4&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidzbi4213&theme=react&hide_border=true&bg_color=0D1117&title_color=7F52FF&layout=compact&include_all_commits=true&count_private=true&hide=javascript,html,css,scss" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahidzbi4213&theme=github_dark" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidzbi4213&theme=react&hide_border=true&background=0D1117&ring=7F52FF&fire=4285F4&currStreakLabel=7F52FF" alt="GitHub streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahidzbi4213&theme=github_dark" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahidzbi4213&theme=github_dark" alt="Most-commit languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahidzbi4213&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahidzbi4213&theme=github_dark" alt="Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahidzbi4213&theme=github_dark&utcOffset=5" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahidzbi4213&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=4285F4&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahidzbi4213&theme=react&hide_border=true&bg_color=0D1117&title_color=7F52FF&layout=compact&include_all_commits=true&count_private=true&hide=javascript,html,css,scss" alt="Top languages" />
 </p>
 
 <p align="center">
