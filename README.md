@@ -1,24 +1,128 @@
-<h1 align="center">Hi 👋, I'm Shahid Iqbal</h1>
-<h3 align="center">A passionate software developer from Pakistan</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=shahidzbi4213&label=Profile%20views&color=0e75b6&style=flat" alt="Shahid Iqbal" /> </p>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:4285F4&height=200&section=header&text=Shahid%20Iqbal&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Mobile%20App%20Engineer%20%E2%80%A2%20KMP%20%2F%20CMP%20%E2%80%A2%20Android&descSize=20&descAlignY=60&animation=fadeIn" alt="Shahid Iqbal banner" />
+</p>
 
-- 🔭 I’m currently working on **<a href="https://mushafmakkah.com/">Mushaf Makkah</a>** 
+<p align="center">
+  <a href="https://linkedin.com/in/shahidzbi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7F52FF&center=true&vCenter=true&width=560&lines=Building+native+apps+with+Jetpack+Compose;Shipping+once%2C+running+on+Android+%26+iOS+with+KMP;Compose+Multiplatform+enthusiast+%F0%9F%A7%A9;Clean+Architecture+%E2%80%A2+MVVM+%E2%80%A2+Kotlin+first" alt="Typing SVG" /></a>
+</p>
 
-- 🌱 I’m currently learning **KMP/CMP**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahidzbi4213&label=Profile%20views&color=7F52FF&style=flat" alt="Profile views" />
+  <a href="https://github.com/Shahidzbi4213?tab=followers"><img src="https://img.shields.io/github/followers/Shahidzbi4213?label=Followers&style=flat&color=4285F4" alt="Followers" /></a>
+</p>
 
-- 👯 I’m looking to collaborate on **Android Projects**
+---
 
-- 💬 Ask me about **android, kotlin, java,compose**
+### 🚀 About Me
 
+```kotlin
+val shahid = MobileEngineer(
+    name        = "Shahid Iqbal",
+    role        = "Mobile App Engineer",
+    location    = "Pakistan 🇵🇰",
+    focus       = listOf("Kotlin Multiplatform", "Compose Multiplatform", "Android"),
+    currentlyOn = "Mushaf Makkah",   // https://mushafmakkah.com
+    stack       = listOf("Kotlin", "Jetpack Compose", "Coroutines/Flow", "KMP/CMP"),
+    architecture= "Clean Architecture + MVVM",
+    openTo      = "Android & Multiplatform collaborations"
+)
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahid__iqbal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahidzbi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shahid.iqbal4213) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/shahidzbi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12536083/shahid-iqbal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahidzbi) 
+- 🔭 &nbsp;Currently building **[Mushaf Makkah](https://mushafmakkah.com/)**
+- 🧩 &nbsp;Going all-in on **Kotlin Multiplatform (KMP)** & **Compose Multiplatform (CMP)** — *write once, ship native to Android & iOS*
+- 🌱 &nbsp;Always leveling up on modern Android, performance & multiplatform tooling
+- 👯 &nbsp;Open to collaborate on **Android / KMP projects**
+- 💬 &nbsp;Ask me about **Android, Kotlin, Jetpack Compose, KMP/CMP**
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Kotlin Multiplatform](https://img.shields.io/badge/KMP-%234F5BFF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=shahidzbi4213&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidzbi4213&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript,html,css,scss)
+---
 
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/shahidzbi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@shahid.iqbal4213"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://x.com/shahidzbi"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://stackoverflow.com/users/12536083/shahid-iqbal"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://instagram.com/shahid__iqbal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://reddit.com/user/shahidzbi"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Core**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-%234F5BFF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Mobile & UI**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4F5BFF?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+
+**Backend, Data & Cloud**
+
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Room](https://img.shields.io/badge/Room-%23007396.svg?style=for-the-badge&logo=android&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Workflow**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+| :------ | :---------- | :--- |
+| 🧭 **[GeoQibla](https://github.com/Shahidzbi4213/GeoQibla)** | KMP library for accurate Qibla direction via geolocation & device sensors — shared logic, native performance on Android & iOS | `KMP` `Sensors` |
+| 🖼️ **[WallpaperApp-Cmp](https://github.com/Shahidzbi4213/WallpaperApp-Cmp)** | Compose Multiplatform wallpaper app running across platforms from a single codebase | `CMP` `Compose` |
+| 📝 **[NotesSaver](https://github.com/Shahidzbi4213/NotesSaver)** | Notes app showcasing Clean Architecture with MVVM & Jetpack Compose | `Compose` `MVVM` |
+| 🎬 **[SampleReelsApp](https://github.com/Shahidzbi4213/SampleReelsApp)** | Reels/Shorts-style streaming like Instagram/FB using Compose & ExoPlayer | `Compose` `ExoPlayer` |
+| 🌄 **[Screeny-Compose](https://github.com/Shahidzbi4213/Screeny-Compose)** | Wallpaper app powered by Jetpack Compose and the Pexels API | `Compose` `REST` |
+| ✨ **[Utils-Magic](https://github.com/Shahidzbi4213/Utils-Magic)** | Android utility library — 100+ predefined helpers to build native apps faster | `Android` `Library` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahidzbi4213&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=4285F4&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidzbi4213&theme=react&hide_border=true&bg_color=0D1117&title_color=7F52FF&layout=compact&include_all_commits=true&count_private=true&hide=javascript,html,css,scss" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidzbi4213&theme=react&hide_border=true&background=0D1117&ring=7F52FF&fire=4285F4&currStreakLabel=7F52FF" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahidzbi4213&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidzbi4213&theme=react-dark&hide_border=true&bg_color=0D1117&color=7F52FF&line=4285F4&point=ffffff&area=true" alt="Activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Shahidzbi4213">Shahidzbi4213</a> — let's build something native together.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:7F52FF&height=120&section=footer" alt="footer" />
+</p>
