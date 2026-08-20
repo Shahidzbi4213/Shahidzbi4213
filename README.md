@@ -115,11 +115,6 @@ val shahid = MobileEngineer(
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahidzbi4213&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=4285F4&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahidzbi4213&theme=react&hide_border=true&bg_color=0D1117&title_color=7F52FF&layout=compact&include_all_commits=true&count_private=true&hide=javascript,html,css,scss" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidzbi4213&theme=react-dark&hide_border=true&bg_color=0D1117&color=7F52FF&line=4285F4&point=ffffff&area=true" alt="Activity graph" />
 </p>
 
