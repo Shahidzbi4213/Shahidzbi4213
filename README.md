@@ -29,7 +29,7 @@ val shahid = MobileEngineer(
 )
 ```
 
-- 🔭 &nbsp;Currently building **[Mushaf Makkah](https://mushafmakkah.com/)**
+- 🔭 &nbsp;Currently building **[GeoQibla](https://shahidzbi4213.github.io/GeoQibla/)**
 - 🧩 &nbsp;Going all-in on **Kotlin Multiplatform (KMP)** & **Compose Multiplatform (CMP)** — *write once, ship native to Android & iOS*
 - 🌱 &nbsp;Always leveling up on modern Android, performance & multiplatform tooling
 - 👯 &nbsp;Open to collaborate on **Android / KMP projects**
