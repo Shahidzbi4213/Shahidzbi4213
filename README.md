@@ -22,7 +22,6 @@ val shahid = MobileEngineer(
     role        = "Mobile App Engineer",
     location    = "Pakistan 🇵🇰",
     focus       = listOf("Kotlin Multiplatform", "Compose Multiplatform", "Android"),
-    currentlyOn = "Mushaf Makkah",   // https://mushafmakkah.com
     stack       = listOf("Kotlin", "Jetpack Compose", "Coroutines/Flow", "KMP/CMP"),
     architecture= "Clean Architecture + MVVM",
     openTo      = "Android & Multiplatform collaborations"
