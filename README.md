@@ -28,6 +28,7 @@ val shahid = MobileEngineer(
 )
 ```
 
+- 🌐 &nbsp;Personal Portfolio: [shahid-iqbal.dev](https://shahid-iqbal.dev/)
 - 🔭 &nbsp;Currently building **[GeoQibla](https://shahidzbi4213.github.io/GeoQibla/)**
 - 🧩 &nbsp;Going all-in on **Kotlin Multiplatform (KMP)** & **Compose Multiplatform (CMP)** — *write once, ship native to Android & iOS*
 - 🌱 &nbsp;Always leveling up on modern Android, performance & multiplatform tooling
@@ -39,6 +40,7 @@ val shahid = MobileEngineer(
 ### 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://shahid-iqbal.dev"><img src="https://img.shields.io/badge/Portfolio-%230B57D0.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/shahidzbi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@shahid.iqbal4213"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://x.com/shahidzbi"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
