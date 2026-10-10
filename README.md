@@ -114,11 +114,6 @@ val shahid = MobileEngineer(
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahidzbi4213&theme=github_dark" alt="Stats" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahidzbi4213&theme=github_dark&utcOffset=5" alt="Productive time" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidzbi4213&theme=react-dark&hide_border=true&bg_color=0D1117&color=7F52FF&line=4285F4&point=ffffff&area=true" alt="Activity graph" />
-</p>
-
 ---
 
 <p align="center">
