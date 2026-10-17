@@ -97,7 +97,7 @@ val shahid = MobileEngineer(
 | 🌄 **[Screeny-Compose](https://github.com/Shahidzbi4213/Screeny-Compose)** | Wallpaper app powered by Jetpack Compose and the Pexels API | `Compose` `REST` |
 | ✨ **[Utils-Magic](https://github.com/Shahidzbi4213/Utils-Magic)** | Android utility library — 100+ predefined helpers to build native apps faster | `Android` `Library` |
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -114,7 +114,7 @@ val shahid = MobileEngineer(
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahidzbi4213&theme=github_dark" alt="Stats" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahidzbi4213&theme=github_dark&utcOffset=5" alt="Productive time" />
 </p>
----
+
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/Shahidzbi4213">Shahidzbi4213</a> — let's build something native together.</i>
