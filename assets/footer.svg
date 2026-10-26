@@ -1,12 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 80" width="100%" height="80" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 40" width="100%" height="40" fill="none">
   <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7F52FF" stop-opacity="0.2" />
-      <stop offset="50%" stop-color="#4F5BFF" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#3DDC84" stop-opacity="0.3" />
+    <linearGradient id="footerLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#21262D" stop-opacity="0" />
+      <stop offset="30%" stop-color="#30363D" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.6" />
+      <stop offset="70%" stop-color="#30363D" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#21262D" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <path d="M 0 40 Q 212.5 10, 425 40 T 850 40" stroke="url(#footerGrad)" stroke-width="2" fill="none" />
-  <circle cx="425" cy="40" r="4" fill="#4F5BFF" />
-  <circle cx="425" cy="40" r="9" fill="none" stroke="#7F52FF" stroke-opacity="0.5" stroke-width="1" />
+  <line x1="40" y1="20" x2="810" y2="20" stroke="url(#footerLineGrad)" stroke-width="1" />
+  <circle cx="425" cy="20" r="3" fill="#8B949E" />
+  <circle cx="425" cy="20" r="7" fill="none" stroke="#30363D" stroke-width="1" />
 </svg>
