@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 80" width="100%" height="80" fill="none">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7F52FF" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#4F5BFF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#3DDC84" stop-opacity="0.3" />
+    </linearGradient>
+  </defs>
+  <path d="M 0 40 Q 212.5 10, 425 40 T 850 40" stroke="url(#footerGrad)" stroke-width="2" fill="none" />
+  <circle cx="425" cy="40" r="4" fill="#4F5BFF" />
+  <circle cx="425" cy="40" r="9" fill="none" stroke="#7F52FF" stroke-opacity="0.5" stroke-width="1" />
+</svg>
