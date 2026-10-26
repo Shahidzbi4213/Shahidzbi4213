@@ -1,20 +1,15 @@
-<!-- Architectural Vector Header -->
-<p align="center">
-  <img src="./assets/hero-mesh.svg" alt="Shahid Iqbal - Multiplatform Systems Engineering" width="100%" />
-</p>
-
-<!-- Native Responsive Typography & Status -->
 <div align="center">
 
 # Shahid Iqbal
+
 ### Senior Kotlin Multiplatform & Android Engineer
 
 <p>
-  <a href="https://shahid-iqbal.dev"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=google-chrome&logoColor=C9D1D9" alt="Portfolio" /></a>&nbsp;
-  <a href="https://linkedin.com/in/shahidzbi"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=C9D1D9" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://x.com/shahidzbi"><img src="https://img.shields.io/badge/X-161B22?style=flat-square&logo=x&logoColor=C9D1D9" alt="X" /></a>&nbsp;
-  <a href="https://medium.com/@shahid.iqbal4213"><img src="https://img.shields.io/badge/Medium-161B22?style=flat-square&logo=medium&logoColor=C9D1D9" alt="Medium" /></a>&nbsp;
-  <a href="mailto:shahid.iqbal4213@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=C9D1D9" alt="Email" /></a>
+  <a href="https://shahid-iqbal.dev">Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/shahidzbi">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://x.com/shahidzbi">X (Twitter)</a> &nbsp;•&nbsp;
+  <a href="https://medium.com/@shahid.iqbal4213">Medium</a> &nbsp;•&nbsp;
+  <a href="mailto:shahid.iqbal4213@gmail.com">Email</a>
 </p>
 
 <p>
@@ -81,16 +76,12 @@ val shahid = SeniorEngineer {
 
 ---
 
-<p align="center">
-  <img src="./assets/footer.svg" alt="divider" width="100%" />
-</p>
-
 <div align="center">
 
 **Available for Senior Mobile Engineering roles, KMP architecture consulting, and open-source collaborations.**
 
 <br/>
 
-[Get in Touch](mailto:shahid.iqbal4213@gmail.com) • [View Portfolio](https://shahid-iqbal.dev) • [LinkedIn](https://linkedin.com/in/shahidzbi) • [X / Twitter](https://x.com/shahidzbi)
+[Get in Touch](mailto:shahid.iqbal4213@gmail.com) &nbsp;•&nbsp; [View Portfolio](https://shahid-iqbal.dev) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/shahidzbi) &nbsp;•&nbsp; [X / Twitter](https://x.com/shahidzbi)
 
 </div>
