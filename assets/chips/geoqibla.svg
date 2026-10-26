@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="343" height="24" viewBox="0 0 343 24" fill="none">
+
+  <g transform="translate(1, 1)">
+    <rect width="43" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="21.5" y="14.5" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Inter, sans-serif" font-size="11" font-weight="500" text-anchor="middle">KMP</text>
+  </g>
+  <g transform="translate(50, 1)">
+    <rect width="43" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="21.5" y="14.5" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Inter, sans-serif" font-size="11" font-weight="500" text-anchor="middle">CMP</text>
+  </g>
+  <g transform="translate(99, 1)">
+    <rect width="95" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="47.5" y="14.5" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Inter, sans-serif" font-size="11" font-weight="500" text-anchor="middle">Sensor Fusion</text>
+  </g>
+  <g transform="translate(200, 1)">
+    <rect width="92" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="46.0" y="14.5" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Inter, sans-serif" font-size="11" font-weight="500" text-anchor="middle">Android &amp; iOS</text>
+  </g>
+  <g transform="translate(298, 1)">
+    <rect width="42" height="22" rx="11" fill="#161F2E" stroke="#2B3A4F" stroke-width="1"/>
+    <text x="21.0" y="14.5" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Inter, sans-serif" font-size="11" font-weight="500" text-anchor="middle"><tspan fill="#E3B341">★</tspan> 12</text>
+  </g>
+</svg>

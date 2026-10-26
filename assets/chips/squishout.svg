@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="327" height="24" viewBox="0 0 327 24" fill="none">
+
+  <g transform="translate(1, 1)">
+    <rect width="147" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="73.5" y="14.5" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Inter, sans-serif" font-size="11" font-weight="500" text-anchor="middle">Compose Multiplatform</text>
+  </g>
+  <g transform="translate(154, 1)">
+    <rect width="63" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="31.5" y="14.5" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Inter, sans-serif" font-size="11" font-weight="500" text-anchor="middle">Game UI</text>
+  </g>
+  <g transform="translate(223, 1)">
+    <rect width="60" height="22" rx="11" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="30.0" y="14.5" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Inter, sans-serif" font-size="11" font-weight="500" text-anchor="middle">Physics</text>
+  </g>
+  <g transform="translate(289, 1)">
+    <rect width="35" height="22" rx="11" fill="#161F2E" stroke="#2B3A4F" stroke-width="1"/>
+    <text x="17.5" y="14.5" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, &apos;Segoe UI&apos;, Roboto, Inter, sans-serif" font-size="11" font-weight="500" text-anchor="middle"><tspan fill="#E3B341">★</tspan> 2</text>
+  </g>
+</svg>
